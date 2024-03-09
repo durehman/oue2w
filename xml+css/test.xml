@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+
+<PersonData>
+    <p1>
+        <name>Imran</name>
+        <id>1234</id>
+        <phone_no>03452453949</phone_no>
+        <Address>A2 Block A North Naz</Address>
+
+    </p1>
+</PersonData>
